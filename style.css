@@ -1,13 +1,1 @@
-:root{
-    --black-color:#19283f;
-    --red-color:#9E1E1E;
 
-}
-
-.section{
-    background-color: #9E1E1E;
-    min-height: calc(100vh - 72px);
-}
-.main-btn{
-
-}
